@@ -57,7 +57,7 @@ type Circle = {
     Fill: string
 }
 
-/// Record tonhelp draw SVG lines
+/// Record to help draw SVG lines
 type Line = {
     /// color of outline: default => black color
     Stroke: string
